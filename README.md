@@ -2,7 +2,7 @@
 # ResumeRevealer: Advanced Resume Parsing for MINeD 2024
 # Team Perceptron
 
-Team Members : Ronak Chauhan, Naimish Gajjar, Vansh Diyora 
+Team Members : Ronak Chauhan(@Ronak021), Naimish Gajjar(@Naimish30), Vansh Diyora(@Vanshdiyora) 
 
 
 
